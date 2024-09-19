@@ -1,0 +1,12 @@
+#STR o string para los amigos
+
+a = ("''")
+b = ("Titulo:")
+c = ("Cuerpo de Texto")
+
+#qui definimos las variables como valores de texto y no como numeros
+#pero las () no son nesesarias pero se ven bonitas
+
+print(a,b,a)
+#tatarata variables juntas se puede repetir sin miedo al exito compradre
+print(c)
